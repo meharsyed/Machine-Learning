@@ -1,6 +1,9 @@
 # Machine-Learning
 
 Objective : 
-"Application of Linear Regression"
+"Implementation of Machine Learning Models"
 
-The Task is to build a real-estate price priction model using the given sample dataset. the prediction model used here is the Linear Regression Model. The code files are given you can visit it and do let me know if needs improvement. 
+The this repository i have added multiple Machine Learning models anmd projects which i have worked on and am currently working on.
+Do let me know if you find any flaws and a room for improvement so that I can do it the better way.
+
+Thanks
